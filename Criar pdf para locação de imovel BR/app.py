@@ -156,7 +156,7 @@ entry_texto_adicional = Text(frame_texto_adicional, wrap="word", width=100, heig
 entry_texto_adicional.grid(row=1, column=0, padx=5, pady=5, sticky="nsew")
 
 # Pré-digitar texto na caixa de texto
-texto_add = f"""CLÁUSULA PRIMEIRA:O objeto de locação é o imóvel residencial, localizado na Av. Rei Davi , nº 1533 cidade Parauapebas CEP:68515-000.\n
+texto_add = f"""CLÁUSULA PRIMEIRA:O objeto de locação é o imóvel residencial, localizado na Av. Rei Davi , nº 0000 cidade Paraminas CEP:00000-000.\n
 CLÁUSULA SEGUNDA:Oprazo da locação é de 12 meses, tendo início na data da assinatura do presente contrato, ocasião em que é entregue as chaves do imóvel ao (à) LOCATÁRIO (A).\n
 PARÁGRAFO PRIMEIRO:Se o (a) LOCATÁRIO (A) desocupar o imóvel antes do prazo estipulado na Cláusula Segunda, ficará obrigado a pagar, a título de multa, o valor equivalente a 3 (três) meses de aluguel, podendo ser isentado a critério do (a) LOCADOR (A) quando da desocupação, mediante termo aditivo expresso e formal.\n
 CLÁUSULA TERCEIRA:O valor do aluguel mensal será de R$ 1.000,00 (Um mil reais), que deverá ser pago obrigatoriamente até o dia 20 de cada mês, em moeda corrente e em mãos do (a) LOCADOR (A).\n
